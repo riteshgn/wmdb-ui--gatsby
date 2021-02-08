@@ -12,7 +12,7 @@ const Showcase = () => {
     return (
         <Hero>
             <BackgroundImage
-                src="http://image.tmdb.org/t/p/w1920_and_h600_multi_faces_filter(duotone,032541,c5c6c7)/uOJHKQgazwVw9YJl7jW1TB1SL47.jpg"
+                src="https://image.tmdb.org/t/p/w1920_and_h600_multi_faces_filter(duotone,032541,c5c6c7)/uOJHKQgazwVw9YJl7jW1TB1SL47.jpg"
                 alt="star wars: rouge one"
             />
             <Body>

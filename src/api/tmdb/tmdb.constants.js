@@ -3,7 +3,7 @@
 export const BASE_URL_API_V3 = 'https://api.themoviedb.org/3';
 // Images have a different base url
 // TODO: this should be cached as described in https://developers.themoviedb.org/3/configuration/get-api-configuration
-export const BASE_URL_IMAGES = 'http://image.tmdb.org/t/p';
+export const BASE_URL_IMAGES = 'https://image.tmdb.org/t/p';
 
 // Queryable content on TMDB
 export const CONTENT_TYPE_ALL = 'all';
