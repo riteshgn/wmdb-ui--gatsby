@@ -4,6 +4,15 @@ export const AppHeader = styled.header([
     tw`
         p-4
         background-secondary
+        flex
+        items-center
+    `
+]);
+
+export const BrandImage = styled.img([
+    tw`
+        h-8
+        mr-2
     `
 ]);
 
