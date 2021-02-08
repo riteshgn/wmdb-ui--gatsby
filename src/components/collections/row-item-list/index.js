@@ -1,0 +1,1 @@
+export { default as CollectionsRowItemList } from './row-item-list';

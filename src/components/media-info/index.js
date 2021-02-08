@@ -1,0 +1,1 @@
+export { default as MediaInfo } from './media-info';

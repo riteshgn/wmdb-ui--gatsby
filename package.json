@@ -1,0 +1,35 @@
+{
+  "name": "wmdb",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WMDB",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/react": "11.1.4",
+    "@emotion/styled": "11.0.0",
+    "autoprefixer": "9.8.6",
+    "axios": "0.21.1",
+    "bloodhound-js": "1.2.3",
+    "gatsby": "^2.26.1",
+    "gatsby-plugin-emotion": "5.4.0",
+    "gatsby-plugin-manifest": "2.12.0",
+    "gatsby-plugin-react-helmet": "3.10.0",
+    "gatsby-plugin-sitemap": "2.12.0",
+    "lodash": "4.17.20",
+    "postcss": "7.0.35",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "6.1.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@2.0.3",
+    "twin.macro": "2.2.0"
+  }
+}
